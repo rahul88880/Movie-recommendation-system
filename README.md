@@ -20,7 +20,7 @@ This is a Content-Based Movie Recommendation System built using Python and Strea
 ## Application Screenshots
 
 ### Home Page
-![Home Page](images/home-page.png)
+![Home Page](images/home-page.png.png)
 
 ### Recommendation Result
-![Recommendation Result](images/recommendation-result.png)
+![Recommendation Result](images/recommendation-result.png.png)
